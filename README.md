@@ -1,0 +1,2 @@
+# intelbook
+Latihan Informatika Syahdan
